@@ -1,4 +1,28 @@
+body {
+	font-family: 'roboto' ;
+}
+
 #header-div {
 	background-color: #65cd00;
 	height: 550px;
+}
+
+.row {
+	margin-top:80px;
+	color: white;
+	padding-right: -15px;
+	padding-left: -15px;
+	text-align: center;
+	width: 40rem;
+}
+
+.row h1 {
+	font-size:45px;
+	margin-bottom:18px;
+}
+
+.row p {
+	font-size: 15px;
+	font-weight: bold;
+
 }
