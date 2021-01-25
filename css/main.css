@@ -43,10 +43,16 @@ body {
 }
 
 .main-features {
-  width: 25%;
+  width: 20%;
   text-align: center;
   float: left;
   color: #636363;
+  font-size: 18px;
+  margin:10px;
+}
+
+.main-features p {
+	font-size: 17px;
 }
 
 .main-header {
