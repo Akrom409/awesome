@@ -68,3 +68,9 @@ body {
     position: relative;
     left: 35.5rem;
 }
+
+.fcard {
+	background-color: lightgray;
+	border-top: 2px solid gray;
+	border-bottom:  2px solid gray;
+}
