@@ -91,6 +91,6 @@ body {
   font-weight: 100;
 }
 
-.card-info > p {
-	font-size: 22px
+.card-info > .header-info {
+	font-size: 25px
 }
