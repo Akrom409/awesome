@@ -94,3 +94,9 @@ body {
 .card-info > .header-info {
 	font-size: 25px
 }
+
+.card-info > p {
+	font-size: 16px;
+}
+
+
