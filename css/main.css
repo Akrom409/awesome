@@ -94,6 +94,7 @@ body {
 
 .card-info > .header-info {
 	font-size: 25px;
+	font-weight: 400;
 }
 
 .card-info > p {
